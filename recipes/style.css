@@ -1,0 +1,27 @@
+body {
+    background-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-img {
+    width: 400px;
+    height: auto;
+}
+
+.recipe-h {
+    background-color: orange;
+}
+
+.description {
+    background-color: aqua;
+}
+
+.ingredients {
+    background-color: green;
+    color: white;
+}
+
+.steps {
+    background-color: blueviolet;
+    color: gold;
+}
